@@ -2,7 +2,6 @@
 How to install CM14.1 on MotoG3 [2015] osprey
 
 a.) Download to Workstation following file:
-
 http://forum.xda-developers.com/devdb/project/?id=11051#downloads
 
 b.) Install fastboot & adb
@@ -18,11 +17,9 @@ d.) On Workstation go to TWRP download folder and execute:
       fastboot reboot
 
 e.) Download ROM
-
 https://www.cmxlog.com/14.1/osprey/
 
 f.) Download GApps (mini)
-
 http://opengapps.org/
 
 g.) Wipe phone in TWRP
